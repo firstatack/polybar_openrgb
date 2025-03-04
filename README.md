@@ -1,7 +1,7 @@
 
 # Modulo para polybar
 
-![openrgb](https://github.com/firstatack/polybar_volamp/blob/main/openrgb.png?raw=true)
+![openrgb](https://github.com/firstatack/polybar_openrgb/blob/main/openrgb.png?raw=true)
 
 ### Requisitos:
 
