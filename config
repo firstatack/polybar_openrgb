@@ -1,0 +1,15 @@
+[module/openrgb]
+type = custom/script
+exec = "/home/quino/.config/bspwm/themes/Japanese\ Street\ 2/polybar/scripts/openrgb_switch.sh"
+click-left = "/home/quino/.config/bspwm/themes/Japanese\ Street\ 2/polybar/scripts/openrgb_switch.sh next"
+click-right = "/home/quino/.config/bspwm/themes/Japanese\ Street\ 2/polybar/scripts/openrgb_switch.sh prev"
+interval = 0
+format = <label>
+label = %output%
+format-prefix ="  "
+format-prefix-font = 2
+format-prefix-padding = 0
+
+format-background = #2C3038
+format-foreground = #98C379
+font-2 = Iosevka Nerd Font:bold:size=20
